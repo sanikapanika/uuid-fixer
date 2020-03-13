@@ -4,7 +4,7 @@ Fixes malformed uuids. Available from terminal using command `fixuuid`.
 No magic involved, only strings with length 32 or binary uuids like `0xd2aefbd23a8a420293ceb0d6ce167507` are accepted.
 It's basically a formatter dunno.
 
-![](https://media.giphy.com/media/l0A43NmIpXqwzFA60U/giphy.gif)
+![](https://media.giphy.com/media/VDZGIv1V4tbrLk1TzQ/giphy.gif)
 
 ## 1. Setup
 

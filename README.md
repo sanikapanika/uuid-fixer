@@ -10,7 +10,7 @@ It's basically a formatter dunno.
 
 ### 1.1 Auto
 1. Clone the repo
-2. Run `sudo bash install.sh` (scared of sudo? take a look at the script it's safe i even tested it once)
+2. Run `sudo bash install.sh` (scared of sudo? take a look at the script it's safe i even tested it once :P)
 
 ### 1.2 Manual (control freaks)
 1. Clone the repo

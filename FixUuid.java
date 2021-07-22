@@ -2,11 +2,13 @@
 public class FixUuid {
 
     public static void main(String[] args) {
-        if (args.length != 1) {
+        if (args.length < 1) {
             help();
             return;
-        } else if (args.length == 1) {
-            String input = args[0];
+        } else {
+            
+            for (String input : args) {
+                
 
             if (input.length() == 32) {
                 fixMalformedString(input);
@@ -15,6 +17,7 @@ public class FixUuid {
             }
             else{
                 System.out.println("Cannot be fixed, too malformed");
+            }
             }
         }
     }
